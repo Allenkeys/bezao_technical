@@ -10,9 +10,9 @@ namespace bezao_technical
     {
         static void Main(string[] args)
         {
-            Leapyear.LeapYears();
+            // Leapyear.LeapYears();
             // GuessingGame.guess();
-            // PigLatin.generatePigLatin()
+            PigLatin.generatePigLatin("hello how are you");
         }
     }
 }
